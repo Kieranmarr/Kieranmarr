@@ -1,8 +1,9 @@
 
 ### Kieran | Beginner Developer
 
-- 🌱 I’m currently learning JS, Lua and Python.
-- 😄 Pronouns: He / Him
+Languages:
+  -  Python
+  -  HTML
 
 More Info | Coming Soon!
 
